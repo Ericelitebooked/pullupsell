@@ -1,5 +1,14 @@
 # Team Workflow SOP — Staging → Production
 
+## 🌐 Website
+
+**Project:** Pullupsell Partners — AI Lead Generation Landing Page  
+**Repository:** https://github.com/Ericelitebooked/pullupsell  
+**Production URL:** https://pullupsell-landingpagefirst.vercel.app/  
+**Hosting:** Vercel (auto-deploys on every push to `main` branch)
+
+---
+
 **Purpose:** Ensure safe, tested deployments with rollback capabilities for the Pullupsell landing page.
 
 ---
