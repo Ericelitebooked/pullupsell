@@ -1,0 +1,15 @@
+# Pullupsell Partners robots.txt
+# Tells search engines how to crawl this site
+
+User-agent: *
+Allow: /
+
+# Disallow admin/private pages (none currently)
+# Disallow: /admin
+# Disallow: /private
+
+# Sitemap (add when you have multiple pages)
+# Sitemap: https://pullupsell.com/sitemap.xml
+
+# Crawl delay (optional - not needed for static sites)
+# Crawl-delay: 1
